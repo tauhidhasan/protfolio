@@ -84,7 +84,7 @@ section {
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     ;
 
 }
@@ -101,4 +101,8 @@ section {
     border-image: linear-gradient(45deg, blue, tomato);
     border-image-slice: 1;
     padding-right: 10px;
+}
+
+footer {
+    text-align: center;
 }
