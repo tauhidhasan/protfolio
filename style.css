@@ -37,7 +37,7 @@ p {
 }
 
 section {
-    height: 500px;
+    height: 400px;
 }
 
 .top-banner {
@@ -50,7 +50,7 @@ s .top-banner {
 }
 
 .dream-area {
-    height: 800px;
+    height: 700px;
 }
 
 .link-button {
@@ -71,4 +71,28 @@ s .top-banner {
 
 .single-exprience-area {
     box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+
+.exprience-area {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg, #ffa07a, tomato);
+    border-image-slice: 1;
+    padding-right: 10px;
+}
+
+#baby-web {
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg, blue, tomato);
+    border-image-slice: 1;
+    padding-right: 10px;
 }
