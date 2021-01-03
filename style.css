@@ -45,12 +45,16 @@ section {
     background-repeat: no-repeat;
 }
 
-s .top-banner {
+.top-banner {
     height: 400px;
 }
 
 .dream-area {
     height: 700px;
+}
+
+.dream-area .half-width img {
+    width: 90%;
 }
 
 .link-button {
@@ -80,6 +84,8 @@ s .top-banner {
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 50px;
+    ;
 
 }
 
